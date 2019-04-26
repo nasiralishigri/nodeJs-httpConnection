@@ -53,7 +53,7 @@ Objectives and Outcomes
     You can also use postman chrome extension to send requests to the server and see the response. Alternately, you can download the stand-alone Postman tool from http://getpostman.com and install it on your computer.
     Initialize a Git repository, check in the files and do a Git commit with the message "Node HTTP Example 1".
 
-#Serving HTML Files
+# Serving HTML Files
 
   #  In the public folder, create a file named index.html and add the following code to it:
             <html>
